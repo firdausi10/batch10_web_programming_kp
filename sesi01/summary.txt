@@ -1,0 +1,20 @@
+--------- summary / 24-07/2023 / Sesi 1--------
+1. instalasi VS Code
+2. install extension 
+    - prettier
+    - auto close tag
+    - auto rename tag
+    - live server
+2. create struktur folder
+    - /sesi01/
+        isi dari folder sesi01 >> summary.txt, tugas1.html, dan hasil screenshot
+3. create file index.html 
+	- struktur html dasar yang di buat dari tugas saat ini
+        1. tag html
+        2. tag head
+        3. tag title
+        4. tag body
+        5. tag h1
+        6. tag p
+
+
